@@ -131,6 +131,17 @@ body {
     margin-bottom: 5%;
 }
 
+.trecho{
+    display: flex;
+    flex-direction: column;
+    padding: 5% 15%;
+    align-items: center;
+    text-align: center;
+}
+
+.trecho-titulo{
+    padding: 1rem 0;
+}
 @media (max-width:1200px){
     .cabecalho{
         padding: 10%;
